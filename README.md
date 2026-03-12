@@ -1,13 +1,9 @@
 # Bootstrap_base 
 
 
-<p align="center">
-  <img src="ballecoffe.jpg" alt="Preview do Projeto BalleCoffee" width="100%">
-</p>
-
 ## 💻 Sobre o Projeto
 
-O **BalleCoffee** é uma Landing Page moderna e responsiva desenvolvida com foco em **SEO (Search Engine Optimization)** e boas práticas de Front-end. O projeto simula a página de uma cafeteria fictícia, apresentando produtos, receitas e novidades.
+O **Bootstrap** é uma Landing Page moderna e responsiva desenvolvida com foco em **SEO (Search Engine Optimization)** e boas práticas de Front-end. O projeto simula a página de uma cafeteria fictícia, apresentando produtos, receitas e novidades.
 
 Este projeto foi desenvolvido como parte do currículo do curso **Técnico em Desenvolvimento de Sistemas** da Escola **SENAI A. Jacob Lafer**.
 
