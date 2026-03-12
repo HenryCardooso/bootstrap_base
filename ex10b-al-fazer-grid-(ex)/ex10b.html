@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Promoções da Loja</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Centralizar o carrossel */
+        .carousel-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .carousel-inner img {
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+    
+
+    <!-- 1ª Digitação (Aqui) -->
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.getElementById('increase-progress').addEventListener('click', function() {
+        let progressBar = document.getElementById('progress-bar');
+        let width = parseInt(progressBar.style.width);
+        
+        if (width < 100) {
+            width += 20;
+            progressBar.style.width = width + "%";
+            progressBar.textContent = width + "%";
+
+            if (width === 100) {
+                alert("🎉 Parabéns! Você desbloqueou um desconto especial!");
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
